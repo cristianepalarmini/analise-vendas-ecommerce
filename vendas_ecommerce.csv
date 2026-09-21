@@ -1,0 +1,501 @@
+id_pedido,data,produto,categoria,quantidade,preco_unitario,desconto,faturamento,custo,lucro,regiao,canal,forma_pagamento,status
+1,2025-01-01,Chapinha,Beleza,4,135.51,0.121,476.45,224.07,252.38,Nordeste,App,Cartão,Concluído
+2,2025-01-02,Mochila,Esportes,4,37.81,0.083,138.69,91.86,46.83,Centro-Oeste,Marketplace,Boleto,Concluído
+3,2025-01-03,Jaqueta,Moda,4,441.54,0.007,1753.8,1075.19,678.61,Centro-Oeste,App,Cartão,Concluído
+4,2025-01-04,Tapete de Yoga,Esportes,4,36.81,0.095,133.25,63.23,70.02,Centro-Oeste,Marketplace,Cartão,Concluído
+5,2025-01-05,Tapete de Yoga,Esportes,4,309.9,0.143,1062.34,624.11,438.23,Nordeste,Site,Pix,Concluído
+6,2025-01-06,Air Fryer,Casa,1,403.23,0.09,366.94,218.48,148.46,Norte,Site,Cartão,Concluído
+7,2025-01-07,Bolsa,Moda,4,472.58,0.123,1657.81,828.46,829.35,Norte,App,Boleto,Concluído
+8,2025-01-08,Bolsa,Moda,1,409.45,0.133,354.99,260.46,94.53,Sul,Marketplace,Boleto,Concluído
+9,2025-01-09,Jaqueta,Moda,4,499.07,0.034,1928.41,1359.51,568.9,Norte,Marketplace,Pix,Cancelado
+10,2025-01-10,Mochila,Esportes,3,142.23,0.032,413.04,268.77,144.27,Norte,Site,Cartão,Cancelado
+11,2025-01-11,Secador,Beleza,2,354.55,0.092,643.86,379.03,264.83,Centro-Oeste,Site,Boleto,Concluído
+12,2025-01-12,Bolsa,Moda,1,230.87,0.062,216.56,124.2,92.36,Centro-Oeste,App,Cartão,Concluído
+13,2025-01-13,Mochila,Esportes,4,183.56,0.126,641.73,414.1,227.63,Sul,Site,Cartão,Concluído
+14,2025-01-14,Aspirador,Casa,3,465.33,0.135,1207.53,740.98,466.55,Sudeste,App,Cartão,Concluído
+15,2025-01-15,Chapinha,Beleza,2,398.21,0.053,754.21,353.48,400.73,Sul,Site,Pix,Concluído
+16,2025-01-16,Jogo de Panelas,Casa,1,689.97,0.036,665.13,401.57,263.56,Sul,Site,Cartão,Concluído
+17,2025-01-17,Kit Skincare,Beleza,2,354.99,0.117,626.91,433.77,193.14,Nordeste,Marketplace,Boleto,Concluído
+18,2025-01-18,Bola,Esportes,3,163.69,0.041,470.94,276.81,194.13,Nordeste,Site,Cartão,Concluído
+19,2025-01-19,Caixa de Som,Eletrônicos,1,425.51,0.123,373.17,173.74,199.43,Sul,Site,Boleto,Concluído
+20,2025-01-20,Secador,Beleza,2,342.41,0.064,640.99,439.64,201.35,Sul,App,Cartão,Concluído
+21,2025-01-21,Aspirador,Casa,4,220.43,0.1,793.55,405.04,388.51,Sul,Site,Boleto,Concluído
+22,2025-01-22,Mochila,Esportes,1,65.35,0.014,64.44,34.0,30.44,Norte,App,Boleto,Concluído
+23,2025-01-23,Chapinha,Beleza,2,185.4,0.094,335.94,167.77,168.17,Nordeste,Site,Cartão,Concluído
+24,2025-01-24,Teclado,Eletrônicos,3,315.54,0.068,882.25,484.41,397.84,Sul,Site,Cartão,Concluído
+25,2025-01-25,Caixa de Som,Eletrônicos,3,322.97,0.088,883.65,598.25,285.4,Centro-Oeste,App,Boleto,Concluído
+26,2025-01-26,Bolsa,Moda,1,155.12,0.025,151.24,91.62,59.62,Centro-Oeste,Marketplace,Pix,Concluído
+27,2025-01-27,Jaqueta,Moda,2,68.94,0.111,122.58,62.7,59.88,Norte,App,Cartão,Concluído
+28,2025-01-28,Air Fryer,Casa,1,81.26,0.129,70.78,50.49,20.29,Norte,App,Pix,Concluído
+29,2025-01-29,Hidratante,Beleza,1,444.97,0.033,430.29,307.17,123.12,Sudeste,App,Cartão,Concluído
+30,2025-01-30,Hidratante,Beleza,2,215.39,0.014,424.75,302.07,122.68,Sudeste,Marketplace,Cartão,Concluído
+31,2025-01-31,Camiseta,Moda,2,222.95,0.004,444.12,231.67,212.45,Sudeste,Site,Cartão,Concluído
+32,2025-02-01,Kit Skincare,Beleza,4,318.66,0.096,1152.27,674.51,477.76,Norte,App,Cartão,Concluído
+33,2025-02-02,Kit Skincare,Beleza,2,129.48,0.091,235.39,175.48,59.91,Norte,App,Pix,Concluído
+34,2025-02-03,Caixa de Som,Eletrônicos,3,858.97,0.082,2365.6,1612.4,753.2,Norte,Marketplace,Cartão,Concluído
+35,2025-02-04,Calça Jeans,Moda,1,403.86,0.035,389.72,178.55,211.17,Centro-Oeste,App,Boleto,Concluído
+36,2025-02-05,Bola,Esportes,1,58.61,0.059,55.15,25.9,29.25,Norte,Site,Boleto,Concluído
+37,2025-02-06,Calça Jeans,Moda,3,237.91,0.089,650.21,383.09,267.12,Centro-Oeste,Marketplace,Pix,Cancelado
+38,2025-02-07,Tapete de Yoga,Esportes,2,311.32,0.075,575.94,416.27,159.67,Sudeste,Site,Cartão,Concluído
+39,2025-02-08,Smartwatch,Eletrônicos,3,854.68,0.148,2184.56,1336.1,848.46,Sudeste,Site,Boleto,Concluído
+40,2025-02-09,Aspirador,Casa,3,364.46,0.02,1071.51,642.2,429.31,Sudeste,Marketplace,Pix,Concluído
+41,2025-02-10,Perfume,Beleza,4,291.5,0.104,1044.74,503.19,541.55,Sul,App,Cartão,Concluído
+42,2025-02-11,Smartwatch,Eletrônicos,3,216.97,0.061,611.2,395.47,215.73,Sul,Site,Boleto,Concluído
+43,2025-02-12,Kit Skincare,Beleza,1,446.38,0.064,417.81,291.06,126.75,Nordeste,Site,Boleto,Concluído
+44,2025-02-13,Aspirador,Casa,3,215.95,0.108,577.88,326.0,251.88,Nordeste,Site,Pix,Concluído
+45,2025-02-14,Air Fryer,Casa,1,663.92,0.104,594.87,406.11,188.76,Nordeste,Site,Cartão,Concluído
+46,2025-02-15,Caixa de Som,Eletrônicos,1,612.71,0.149,521.42,385.51,135.91,Sul,Marketplace,Cartão,Concluído
+47,2025-02-16,Cafeteira,Casa,1,452.87,0.019,444.27,227.08,217.19,Sul,Marketplace,Boleto,Concluído
+48,2025-02-17,Garrafa,Esportes,2,194.06,0.016,381.91,231.82,150.09,Nordeste,Site,Boleto,Concluído
+49,2025-02-18,Air Fryer,Casa,4,215.32,0.109,767.4,411.43,355.97,Nordeste,App,Boleto,Concluído
+50,2025-02-19,Kit Skincare,Beleza,1,112.38,0.087,102.6,70.57,32.03,Norte,Site,Cartão,Cancelado
+51,2025-02-20,Secador,Beleza,1,130.4,0.041,125.05,77.94,47.11,Nordeste,App,Pix,Concluído
+52,2025-02-21,Kit Skincare,Beleza,2,116.44,0.012,230.09,147.34,82.75,Norte,Site,Pix,Concluído
+53,2025-02-22,Kit Skincare,Beleza,1,359.63,0.013,354.95,244.69,110.26,Centro-Oeste,App,Cartão,Concluído
+54,2025-02-23,Bola,Esportes,3,142.04,0.134,369.02,209.9,159.12,Sul,Site,Pix,Concluído
+55,2025-02-24,Jaqueta,Moda,3,76.03,0.029,221.48,160.47,61.01,Nordeste,App,Boleto,Concluído
+56,2025-02-25,Caixa de Som,Eletrônicos,4,874.66,0.049,3327.21,2029.29,1297.92,Sul,Site,Pix,Concluído
+57,2025-02-26,Secador,Beleza,1,402.35,0.034,388.67,193.32,195.35,Sul,Site,Pix,Concluído
+58,2025-02-27,Cafeteira,Casa,2,654.48,0.053,1239.59,816.6,422.99,Sul,App,Pix,Concluído
+59,2025-02-28,Perfume,Beleza,3,447.91,0.01,1330.29,915.21,415.08,Centro-Oeste,Marketplace,Boleto,Concluído
+60,2025-03-01,Aspirador,Casa,2,179.55,0.078,331.09,180.45,150.64,Sudeste,App,Cartão,Concluído
+61,2025-03-02,Air Fryer,Casa,2,319.63,0.01,632.87,447.54,185.33,Nordeste,Marketplace,Boleto,Concluído
+62,2025-03-03,Perfume,Beleza,3,350.88,0.12,926.32,668.66,257.66,Sudeste,Site,Cartão,Concluído
+63,2025-03-04,Bola,Esportes,2,252.73,0.035,487.77,260.02,227.75,Sudeste,App,Cartão,Concluído
+64,2025-03-05,Aspirador,Casa,3,166.95,0.081,460.28,342.93,117.35,Sudeste,App,Cartão,Concluído
+65,2025-03-06,Aspirador,Casa,2,583.97,0.132,1013.77,498.99,514.78,Sul,App,Pix,Concluído
+66,2025-03-07,Chapinha,Beleza,3,132.02,0.098,357.25,182.41,174.84,Norte,Marketplace,Pix,Concluído
+67,2025-03-08,Jogo de Panelas,Casa,1,211.01,0.08,194.13,98.09,96.04,Sul,Marketplace,Cartão,Concluído
+68,2025-03-09,Cafeteira,Casa,4,408.29,0.049,1553.14,1115.46,437.68,Sul,Site,Cartão,Concluído
+69,2025-03-10,Chapinha,Beleza,3,283.11,0.05,806.86,521.46,285.4,Sudeste,Marketplace,Pix,Concluído
+70,2025-03-11,Secador,Beleza,3,277.84,0.1,750.17,371.81,378.36,Sul,Marketplace,Boleto,Concluído
+71,2025-03-12,Smartwatch,Eletrônicos,4,155.02,0.149,527.69,307.17,220.52,Sudeste,Site,Cartão,Concluído
+72,2025-03-13,Garrafa,Esportes,3,310.79,0.099,840.07,533.1,306.97,Norte,App,Boleto,Concluído
+73,2025-03-14,Tapete de Yoga,Esportes,3,114.99,0.084,315.99,150.11,165.88,Nordeste,App,Pix,Concluído
+74,2025-03-15,Jogo de Panelas,Casa,2,151.59,0.11,269.83,192.85,76.98,Sudeste,Site,Cartão,Concluído
+75,2025-03-16,Bola,Esportes,4,314.4,0.07,1169.57,808.27,361.3,Norte,App,Boleto,Concluído
+76,2025-03-17,Cafeteira,Casa,1,672.06,0.009,666.01,400.65,265.36,Nordeste,Marketplace,Boleto,Concluído
+77,2025-03-18,Smartwatch,Eletrônicos,3,786.94,0.084,2162.51,1600.56,561.95,Centro-Oeste,Site,Boleto,Concluído
+78,2025-03-19,Chapinha,Beleza,4,371.9,0.144,1273.39,732.62,540.77,Sudeste,Site,Pix,Concluído
+79,2025-03-20,Kit Skincare,Beleza,2,308.65,0.026,601.25,448.07,153.18,Sudeste,Site,Pix,Concluído
+80,2025-03-21,Chapinha,Beleza,1,265.85,0.104,238.2,154.92,83.28,Centro-Oeste,App,Boleto,Concluído
+81,2025-03-22,Corda,Esportes,4,57.84,0.03,224.42,143.72,80.7,Centro-Oeste,Site,Boleto,Concluído
+82,2025-03-23,Caixa de Som,Eletrônicos,1,414.93,0.08,381.74,190.79,190.95,Sudeste,Site,Pix,Concluído
+83,2025-03-24,Mochila,Esportes,1,149.26,0.015,147.02,105.06,41.96,Centro-Oeste,Site,Boleto,Concluído
+84,2025-03-25,Mochila,Esportes,1,113.12,0.068,105.43,60.96,44.47,Sul,App,Boleto,Concluído
+85,2025-03-26,Teclado,Eletrônicos,3,673.2,0.113,1791.39,893.31,898.08,Nordeste,Marketplace,Pix,Concluído
+86,2025-03-27,Caixa de Som,Eletrônicos,3,486.62,0.052,1383.95,628.01,755.94,Nordeste,Site,Boleto,Concluído
+87,2025-03-28,Mouse,Eletrônicos,2,146.46,0.1,263.63,162.9,100.73,Nordeste,Marketplace,Boleto,Cancelado
+88,2025-03-29,Fone Bluetooth,Eletrônicos,2,260.55,0.119,459.09,279.23,179.86,Sul,App,Boleto,Concluído
+89,2025-03-30,Chapinha,Beleza,4,320.14,0.139,1102.56,734.09,368.47,Centro-Oeste,App,Pix,Concluído
+90,2025-03-31,Tênis,Moda,2,84.26,0.035,162.62,116.61,46.01,Norte,App,Boleto,Concluído
+91,2025-04-01,Tênis,Moda,1,433.04,0.06,407.06,192.87,214.19,Centro-Oeste,App,Pix,Concluído
+92,2025-04-02,Fone Bluetooth,Eletrônicos,1,486.02,0.023,474.84,317.88,156.96,Sudeste,Marketplace,Pix,Concluído
+93,2025-04-03,Jaqueta,Moda,3,266.26,0.149,679.76,344.11,335.65,Nordeste,Site,Cartão,Concluído
+94,2025-04-04,Camiseta,Moda,1,316.58,0.139,272.58,192.84,79.74,Centro-Oeste,App,Cartão,Concluído
+95,2025-04-05,Mouse,Eletrônicos,4,756.24,0.081,2779.94,1934.06,845.88,Norte,App,Boleto,Concluído
+96,2025-04-06,Jaqueta,Moda,1,206.51,0.126,180.49,110.5,69.99,Sudeste,Marketplace,Pix,Concluído
+97,2025-04-07,Bola,Esportes,1,246.97,0.078,227.71,150.99,76.72,Sul,Marketplace,Cartão,Cancelado
+98,2025-04-08,Cafeteira,Casa,4,426.41,0.094,1545.31,841.12,704.19,Sul,App,Boleto,Concluído
+99,2025-04-09,Cafeteira,Casa,2,238.23,0.013,470.27,278.09,192.18,Norte,Site,Cartão,Cancelado
+100,2025-04-10,Caixa de Som,Eletrônicos,2,800.48,0.113,1420.05,989.05,431.0,Sudeste,Site,Cartão,Concluído
+101,2025-04-11,Secador,Beleza,4,366.94,0.019,1439.87,846.33,593.54,Nordeste,App,Pix,Concluído
+102,2025-04-12,Mouse,Eletrônicos,3,619.93,0.124,1629.18,908.01,721.17,Centro-Oeste,Marketplace,Pix,Concluído
+103,2025-04-13,Hidratante,Beleza,1,388.74,0.117,343.26,205.36,137.9,Sudeste,App,Cartão,Concluído
+104,2025-04-14,Aspirador,Casa,4,616.4,0.106,2204.25,1539.61,664.64,Sul,App,Cartão,Concluído
+105,2025-04-15,Teclado,Eletrônicos,1,660.86,0.005,657.56,362.03,295.53,Norte,Marketplace,Pix,Cancelado
+106,2025-04-16,Tapete de Yoga,Esportes,3,297.84,0.045,853.31,428.47,424.84,Norte,App,Boleto,Concluído
+107,2025-04-17,Bolsa,Moda,1,363.86,0.039,349.67,232.04,117.63,Centro-Oeste,App,Pix,Concluído
+108,2025-04-18,Perfume,Beleza,4,318.86,0.054,1206.57,841.94,364.63,Norte,App,Cartão,Concluído
+109,2025-04-19,Camiseta,Moda,1,328.38,0.013,324.11,155.63,168.48,Norte,Marketplace,Boleto,Concluído
+110,2025-04-20,Tênis,Moda,2,388.72,0.141,667.82,348.58,319.24,Sudeste,Site,Cartão,Cancelado
+111,2025-04-21,Fone Bluetooth,Eletrônicos,3,210.06,0.083,577.88,284.66,293.22,Nordeste,Site,Boleto,Concluído
+112,2025-04-22,Tênis,Moda,3,446.39,0.046,1277.57,708.26,569.31,Centro-Oeste,Marketplace,Cartão,Concluído
+113,2025-04-23,Bola,Esportes,3,308.99,0.06,871.35,509.83,361.52,Sudeste,Site,Boleto,Concluído
+114,2025-04-24,Calça Jeans,Moda,4,63.16,0.067,235.71,159.02,76.69,Nordeste,App,Boleto,Concluído
+115,2025-04-25,Fone Bluetooth,Eletrônicos,3,757.17,0.09,2067.07,1333.97,733.1,Sudeste,Site,Cartão,Cancelado
+116,2025-04-26,Tapete de Yoga,Esportes,2,71.24,0.077,131.51,83.68,47.83,Sudeste,App,Boleto,Concluído
+117,2025-04-27,Aspirador,Casa,4,281.12,0.138,969.3,538.65,430.65,Norte,Site,Pix,Concluído
+118,2025-04-28,Camiseta,Moda,2,384.58,0.075,711.47,499.76,211.71,Nordeste,Marketplace,Cartão,Concluído
+119,2025-04-29,Mouse,Eletrônicos,1,211.82,0.149,180.26,106.6,73.66,Centro-Oeste,Site,Pix,Concluído
+120,2025-04-30,Aspirador,Casa,1,585.32,0.128,510.4,379.6,130.8,Centro-Oeste,Site,Cartão,Concluído
+121,2025-05-01,Cafeteira,Casa,1,594.24,0.031,575.82,368.66,207.16,Nordeste,Site,Boleto,Concluído
+122,2025-05-02,Kit Skincare,Beleza,1,248.06,0.14,213.33,104.08,109.25,Norte,Marketplace,Boleto,Concluído
+123,2025-05-03,Corda,Esportes,2,32.04,0.017,62.99,41.12,21.87,Sul,Site,Boleto,Cancelado
+124,2025-05-04,Bolsa,Moda,4,179.17,0.123,628.53,344.14,284.39,Sudeste,Marketplace,Cartão,Concluído
+125,2025-05-05,Smartwatch,Eletrônicos,4,585.88,0.057,2209.94,1449.5,760.44,Norte,App,Pix,Concluído
+126,2025-05-06,Kit Skincare,Beleza,3,442.29,0.132,1151.72,542.34,609.38,Nordeste,Site,Pix,Cancelado
+127,2025-05-07,Corda,Esportes,2,232.18,0.13,403.99,202.99,201.0,Sudeste,Marketplace,Cartão,Concluído
+128,2025-05-08,Kit Skincare,Beleza,1,146.52,0.121,128.79,91.02,37.77,Centro-Oeste,Marketplace,Cartão,Concluído
+129,2025-05-09,Corda,Esportes,2,232.88,0.119,410.33,212.61,197.72,Sul,Site,Pix,Concluído
+130,2025-05-10,Corda,Esportes,3,202.8,0.046,580.41,406.93,173.48,Centro-Oeste,App,Pix,Concluído
+131,2025-05-11,Jaqueta,Moda,3,400.93,0.012,1188.36,634.33,554.03,Nordeste,Marketplace,Pix,Concluído
+132,2025-05-12,Mochila,Esportes,2,64.23,0.06,120.75,77.63,43.12,Sudeste,Site,Pix,Cancelado
+133,2025-05-13,Chapinha,Beleza,2,352.02,0.026,685.73,451.38,234.35,Nordeste,App,Cartão,Concluído
+134,2025-05-14,Tapete de Yoga,Esportes,2,203.21,0.104,364.15,219.87,144.28,Sudeste,Marketplace,Cartão,Concluído
+135,2025-05-15,Tênis,Moda,4,483.35,0.052,1832.86,992.66,840.2,Norte,Marketplace,Boleto,Concluído
+136,2025-05-16,Tênis,Moda,1,203.84,0.146,174.08,89.44,84.64,Sul,App,Pix,Concluído
+137,2025-05-17,Perfume,Beleza,2,299.37,0.096,541.26,248.96,292.3,Norte,App,Boleto,Concluído
+138,2025-05-18,Cafeteira,Casa,2,657.18,0.123,1152.69,623.82,528.87,Norte,Site,Cartão,Concluído
+139,2025-05-19,Aspirador,Casa,2,134.58,0.02,263.78,170.39,93.39,Nordeste,Site,Cartão,Concluído
+140,2025-05-20,Bola,Esportes,3,329.91,0.129,862.05,630.58,231.47,Sul,Marketplace,Boleto,Concluído
+141,2025-05-21,Mouse,Eletrônicos,3,644.07,0.138,1665.57,1184.82,480.75,Sudeste,App,Pix,Concluído
+142,2025-05-22,Bola,Esportes,4,51.71,0.073,191.74,130.35,61.39,Sudeste,App,Pix,Concluído
+143,2025-05-23,Hidratante,Beleza,1,163.4,0.091,148.53,101.97,46.56,Centro-Oeste,App,Pix,Concluído
+144,2025-05-24,Secador,Beleza,4,330.35,0.115,1169.44,759.55,409.89,Sudeste,Marketplace,Pix,Concluído
+145,2025-05-25,Hidratante,Beleza,1,67.61,0.026,65.85,34.77,31.08,Nordeste,App,Boleto,Concluído
+146,2025-05-26,Kit Skincare,Beleza,3,278.69,0.075,773.36,558.49,214.87,Norte,App,Boleto,Concluído
+147,2025-05-27,Secador,Beleza,3,181.81,0.06,512.7,333.88,178.82,Norte,Marketplace,Cartão,Concluído
+148,2025-05-28,Jaqueta,Moda,3,329.41,0.022,966.49,597.42,369.07,Norte,Site,Pix,Concluído
+149,2025-05-29,Air Fryer,Casa,4,98.82,0.055,373.54,180.53,193.01,Sul,Site,Pix,Concluído
+150,2025-05-30,Kit Skincare,Beleza,2,397.33,0.01,786.71,459.53,327.18,Sudeste,Marketplace,Pix,Concluído
+151,2025-05-31,Smartwatch,Eletrônicos,2,878.26,0.004,1749.49,1028.89,720.6,Nordeste,App,Boleto,Concluído
+152,2025-06-01,Smartwatch,Eletrônicos,3,874.48,0.02,2570.97,1823.77,747.2,Sul,Marketplace,Pix,Concluído
+153,2025-06-02,Teclado,Eletrônicos,2,694.71,0.144,1189.34,730.25,459.09,Centro-Oeste,Site,Boleto,Concluído
+154,2025-06-03,Caixa de Som,Eletrônicos,2,186.67,0.082,342.73,193.34,149.39,Nordeste,Site,Pix,Concluído
+155,2025-06-04,Jaqueta,Moda,4,391.22,0.145,1337.97,994.17,343.8,Nordeste,Marketplace,Pix,Concluído
+156,2025-06-05,Fone Bluetooth,Eletrônicos,1,100.16,0.065,93.65,45.25,48.4,Nordeste,Marketplace,Cartão,Concluído
+157,2025-06-06,Perfume,Beleza,3,49.07,0.047,140.29,80.91,59.38,Norte,Site,Pix,Concluído
+158,2025-06-07,Garrafa,Esportes,3,133.56,0.076,370.23,171.27,198.96,Nordeste,Marketplace,Pix,Concluído
+159,2025-06-08,Fone Bluetooth,Eletrônicos,4,480.69,0.066,1795.86,1206.77,589.09,Sudeste,Site,Cartão,Concluído
+160,2025-06-09,Calça Jeans,Moda,4,396.68,0.016,1561.33,1132.62,428.71,Nordeste,Marketplace,Boleto,Concluído
+161,2025-06-10,Jaqueta,Moda,2,357.48,0.096,646.32,345.14,301.18,Norte,Marketplace,Boleto,Concluído
+162,2025-06-11,Smartwatch,Eletrônicos,3,445.64,0.032,1294.14,915.61,378.53,Nordeste,Marketplace,Pix,Concluído
+163,2025-06-12,Mochila,Esportes,1,117.56,0.093,106.63,57.33,49.3,Centro-Oeste,Site,Boleto,Concluído
+164,2025-06-13,Teclado,Eletrônicos,4,897.64,0.098,3238.69,2342.32,896.37,Centro-Oeste,Marketplace,Pix,Concluído
+165,2025-06-14,Calça Jeans,Moda,1,241.78,0.023,236.22,159.73,76.49,Norte,Site,Cartão,Concluído
+166,2025-06-15,Air Fryer,Casa,1,354.37,0.009,351.18,242.83,108.35,Sudeste,Site,Cartão,Concluído
+167,2025-06-16,Hidratante,Beleza,3,107.09,0.117,283.68,129.19,154.49,Sudeste,Marketplace,Pix,Concluído
+168,2025-06-17,Tênis,Moda,3,407.66,0.069,1138.59,841.24,297.35,Sul,Marketplace,Cartão,Concluído
+169,2025-06-18,Smartwatch,Eletrônicos,4,648.82,0.009,2571.92,1718.05,853.87,Norte,Site,Cartão,Concluído
+170,2025-06-19,Perfume,Beleza,3,130.52,0.149,333.22,180.41,152.81,Nordeste,Site,Pix,Concluído
+171,2025-06-20,Teclado,Eletrônicos,3,147.55,0.009,438.67,306.55,132.12,Norte,App,Pix,Concluído
+172,2025-06-21,Fone Bluetooth,Eletrônicos,3,638.01,0.104,1714.97,916.58,798.39,Sul,Site,Cartão,Concluído
+173,2025-06-22,Cafeteira,Casa,1,482.34,0.148,410.95,292.52,118.43,Norte,App,Boleto,Concluído
+174,2025-06-23,Chapinha,Beleza,4,152.04,0.036,586.27,283.62,302.65,Norte,App,Boleto,Concluído
+175,2025-06-24,Perfume,Beleza,2,429.85,0.021,841.65,556.42,285.23,Sul,App,Pix,Concluído
+176,2025-06-25,Cafeteira,Casa,1,165.17,0.018,162.2,99.3,62.9,Sudeste,Marketplace,Pix,Cancelado
+177,2025-06-26,Jaqueta,Moda,3,244.55,0.045,700.64,335.58,365.06,Nordeste,Marketplace,Boleto,Concluído
+178,2025-06-27,Teclado,Eletrônicos,1,853.77,0.015,840.96,439.46,401.5,Sul,Site,Cartão,Concluído
+179,2025-06-28,Bola,Esportes,3,164.31,0.104,441.67,200.4,241.27,Centro-Oeste,App,Boleto,Concluído
+180,2025-06-29,Caixa de Som,Eletrônicos,3,603.59,0.009,1794.47,1059.87,734.6,Sudeste,Marketplace,Boleto,Concluído
+181,2025-06-30,Caixa de Som,Eletrônicos,1,406.03,0.076,375.17,202.73,172.44,Centro-Oeste,Marketplace,Boleto,Concluído
+182,2025-07-01,Jaqueta,Moda,4,173.4,0.15,589.56,371.13,218.43,Sudeste,Marketplace,Boleto,Concluído
+183,2025-07-02,Smartwatch,Eletrônicos,3,886.86,0.122,2335.99,1259.5,1076.49,Nordeste,Marketplace,Pix,Concluído
+184,2025-07-03,Liquidificador,Casa,4,327.88,0.092,1190.86,643.04,547.82,Nordeste,Marketplace,Pix,Concluído
+185,2025-07-04,Jogo de Panelas,Casa,2,633.28,0.046,1208.3,813.14,395.16,Norte,App,Cartão,Concluído
+186,2025-07-05,Perfume,Beleza,3,134.28,0.094,364.97,169.51,195.46,Centro-Oeste,App,Cartão,Concluído
+187,2025-07-06,Bola,Esportes,4,98.19,0.079,361.73,260.76,100.97,Sudeste,App,Cartão,Concluído
+188,2025-07-07,Fone Bluetooth,Eletrônicos,4,105.53,0.064,395.1,278.81,116.29,Nordeste,App,Cartão,Concluído
+189,2025-07-08,Fone Bluetooth,Eletrônicos,2,614.37,0.02,1204.17,783.12,421.05,Sul,Site,Boleto,Concluído
+190,2025-07-09,Calça Jeans,Moda,4,215.84,0.133,748.53,470.05,278.48,Nordeste,App,Pix,Cancelado
+191,2025-07-10,Cafeteira,Casa,4,614.55,0.067,2293.5,1646.02,647.48,Sul,Marketplace,Pix,Concluído
+192,2025-07-11,Bola,Esportes,2,181.43,0.029,352.34,178.14,174.2,Sudeste,App,Cartão,Concluído
+193,2025-07-12,Chapinha,Beleza,3,436.96,0.055,1238.78,586.8,651.98,Nordeste,Site,Cartão,Concluído
+194,2025-07-13,Air Fryer,Casa,4,186.88,0.062,701.17,365.91,335.26,Nordeste,Marketplace,Boleto,Concluído
+195,2025-07-14,Perfume,Beleza,4,396.14,0.124,1388.07,955.51,432.56,Sudeste,App,Boleto,Concluído
+196,2025-07-15,Camiseta,Moda,4,399.47,0.11,1422.11,654.74,767.37,Nordeste,App,Cartão,Concluído
+197,2025-07-16,Bolsa,Moda,1,396.91,0.115,351.27,219.49,131.78,Sul,App,Pix,Concluído
+198,2025-07-17,Smartwatch,Eletrônicos,2,772.72,0.002,1542.35,1154.65,387.7,Nordeste,Marketplace,Pix,Concluído
+199,2025-07-18,Garrafa,Esportes,1,273.53,0.062,256.57,181.32,75.25,Centro-Oeste,Marketplace,Pix,Concluído
+200,2025-07-19,Kit Skincare,Beleza,2,296.75,0.072,550.77,334.01,216.76,Norte,Site,Cartão,Concluído
+201,2025-07-20,Jogo de Panelas,Casa,3,152.68,0.003,456.67,214.22,242.45,Sul,Marketplace,Pix,Concluído
+202,2025-07-21,Calça Jeans,Moda,3,64.64,0.039,186.36,130.34,56.02,Centro-Oeste,Marketplace,Boleto,Cancelado
+203,2025-07-22,Smartwatch,Eletrônicos,4,835.1,0.114,2959.59,1863.63,1095.96,Sudeste,App,Boleto,Concluído
+204,2025-07-23,Mouse,Eletrônicos,2,585.65,0.021,1146.7,555.55,591.15,Sul,Marketplace,Cartão,Cancelado
+205,2025-07-24,Perfume,Beleza,3,366.58,0.08,1011.76,483.78,527.98,Norte,App,Boleto,Concluído
+206,2025-07-25,Bolsa,Moda,2,266.69,0.032,516.31,373.23,143.08,Norte,App,Cartão,Cancelado
+207,2025-07-26,Bola,Esportes,3,67.54,0.002,202.21,131.59,70.62,Sudeste,Marketplace,Pix,Concluído
+208,2025-07-27,Calça Jeans,Moda,1,106.33,0.036,102.5,71.63,30.87,Sudeste,Site,Pix,Concluído
+209,2025-07-28,Perfume,Beleza,3,321.08,0.146,822.61,587.09,235.52,Sul,Site,Pix,Concluído
+210,2025-07-29,Perfume,Beleza,1,216.43,0.12,190.46,118.38,72.08,Nordeste,Marketplace,Boleto,Concluído
+211,2025-07-30,Jaqueta,Moda,3,140.24,0.144,360.14,217.97,142.17,Sudeste,Site,Cartão,Concluído
+212,2025-07-31,Hidratante,Beleza,4,241.55,0.073,895.67,518.71,376.96,Nordeste,App,Pix,Concluído
+213,2025-08-01,Camiseta,Moda,1,78.89,0.016,77.63,42.31,35.32,Centro-Oeste,App,Cartão,Concluído
+214,2025-08-02,Jogo de Panelas,Casa,3,436.64,0.082,1202.51,697.91,504.6,Norte,Marketplace,Pix,Concluído
+215,2025-08-03,Calça Jeans,Moda,4,171.05,0.068,637.67,435.0,202.67,Nordeste,Site,Boleto,Concluído
+216,2025-08-04,Bolsa,Moda,1,408.9,0.127,356.97,225.1,131.87,Norte,Site,Boleto,Concluído
+217,2025-08-05,Kit Skincare,Beleza,4,167.25,0.015,658.96,472.97,185.99,Nordeste,App,Cartão,Concluído
+218,2025-08-06,Kit Skincare,Beleza,2,226.64,0.073,420.19,244.98,175.21,Centro-Oeste,Marketplace,Boleto,Concluído
+219,2025-08-07,Smartwatch,Eletrônicos,2,89.53,0.023,174.94,110.58,64.36,Sudeste,Site,Boleto,Concluído
+220,2025-08-08,Smartwatch,Eletrônicos,1,139.41,0.049,132.58,84.77,47.81,Centro-Oeste,Marketplace,Cartão,Concluído
+221,2025-08-09,Jogo de Panelas,Casa,3,317.27,0.111,846.16,530.97,315.19,Sudeste,Site,Pix,Concluído
+222,2025-08-10,Teclado,Eletrônicos,1,473.55,0.071,439.93,290.7,149.23,Sudeste,App,Boleto,Concluído
+223,2025-08-11,Camiseta,Moda,4,320.01,0.056,1208.36,629.83,578.53,Norte,App,Cartão,Concluído
+224,2025-08-12,Chapinha,Beleza,3,159.58,0.059,450.49,271.96,178.53,Centro-Oeste,Marketplace,Boleto,Concluído
+225,2025-08-13,Fone Bluetooth,Eletrônicos,2,649.89,0.069,1210.1,582.38,627.72,Nordeste,App,Boleto,Concluído
+226,2025-08-14,Fone Bluetooth,Eletrônicos,3,785.3,0.118,2077.9,1174.75,903.15,Centro-Oeste,Site,Boleto,Concluído
+227,2025-08-15,Aspirador,Casa,2,561.31,0.134,972.19,579.72,392.47,Norte,App,Boleto,Concluído
+228,2025-08-16,Liquidificador,Casa,3,94.96,0.143,244.14,157.63,86.51,Sudeste,Marketplace,Cartão,Concluído
+229,2025-08-17,Calça Jeans,Moda,3,266.23,0.118,704.44,517.88,186.56,Norte,Marketplace,Cartão,Concluído
+230,2025-08-18,Perfume,Beleza,3,83.02,0.047,237.35,149.58,87.77,Sul,Marketplace,Cartão,Concluído
+231,2025-08-19,Cafeteira,Casa,4,222.49,0.103,798.29,537.31,260.98,Sul,Site,Boleto,Concluído
+232,2025-08-20,Caixa de Som,Eletrônicos,4,889.06,0.066,3321.53,1999.16,1322.37,Nordeste,Site,Boleto,Concluído
+233,2025-08-21,Chapinha,Beleza,1,98.42,0.038,94.68,60.62,34.06,Norte,Site,Boleto,Concluído
+234,2025-08-22,Kit Skincare,Beleza,1,244.54,0.126,213.73,100.73,113.0,Nordeste,Site,Cartão,Concluído
+235,2025-08-23,Fone Bluetooth,Eletrônicos,2,586.89,0.006,1166.74,614.08,552.66,Nordeste,Site,Boleto,Concluído
+236,2025-08-24,Liquidificador,Casa,4,512.55,0.135,1773.42,990.55,782.87,Sul,App,Pix,Concluído
+237,2025-08-25,Fone Bluetooth,Eletrônicos,2,538.91,0.069,1003.45,593.79,409.66,Nordeste,Site,Boleto,Cancelado
+238,2025-08-26,Chapinha,Beleza,1,44.01,0.096,39.79,18.45,21.34,Sul,Site,Pix,Concluído
+239,2025-08-27,Corda,Esportes,2,134.47,0.099,242.31,119.22,123.09,Sudeste,App,Boleto,Cancelado
+240,2025-08-28,Bola,Esportes,1,195.67,0.134,169.45,90.32,79.13,Norte,Site,Cartão,Concluído
+241,2025-08-29,Camiseta,Moda,4,89.54,0.096,323.78,240.07,83.71,Nordeste,Marketplace,Boleto,Concluído
+242,2025-08-30,Caixa de Som,Eletrônicos,3,367.51,0.092,1001.1,550.01,451.09,Sul,Site,Pix,Concluído
+243,2025-08-31,Smartwatch,Eletrônicos,4,107.23,0.01,424.63,252.49,172.14,Centro-Oeste,Site,Pix,Concluído
+244,2025-09-01,Jaqueta,Moda,2,85.36,0.078,157.4,80.09,77.31,Nordeste,Marketplace,Boleto,Concluído
+245,2025-09-02,Calça Jeans,Moda,2,228.62,0.023,446.72,282.88,163.84,Sudeste,Marketplace,Pix,Concluído
+246,2025-09-03,Calça Jeans,Moda,4,109.72,0.111,390.16,208.43,181.73,Sudeste,Marketplace,Pix,Concluído
+247,2025-09-04,Secador,Beleza,4,272.69,0.077,1006.77,515.56,491.21,Centro-Oeste,Marketplace,Cartão,Cancelado
+248,2025-09-05,Teclado,Eletrônicos,1,645.36,0.102,579.53,350.6,228.93,Sul,Site,Boleto,Concluído
+249,2025-09-06,Perfume,Beleza,2,368.24,0.006,732.06,330.64,401.42,Nordeste,Marketplace,Boleto,Concluído
+250,2025-09-07,Calça Jeans,Moda,2,140.07,0.013,276.5,125.06,151.44,Sul,Marketplace,Boleto,Concluído
+251,2025-09-08,Mouse,Eletrônicos,4,217.34,0.107,776.34,400.37,375.97,Sudeste,App,Pix,Concluído
+252,2025-09-09,Chapinha,Beleza,3,82.87,0.011,245.88,113.35,132.53,Sul,Marketplace,Boleto,Concluído
+253,2025-09-10,Perfume,Beleza,2,300.94,0.011,595.26,287.16,308.1,Sudeste,Marketplace,Boleto,Concluído
+254,2025-09-11,Calça Jeans,Moda,3,367.91,0.002,1101.52,607.66,493.86,Sul,App,Cartão,Cancelado
+255,2025-09-12,Teclado,Eletrônicos,4,105.9,0.143,363.03,250.77,112.26,Centro-Oeste,App,Cartão,Concluído
+256,2025-09-13,Calça Jeans,Moda,4,471.3,0.111,1675.94,1041.79,634.15,Norte,Site,Cartão,Concluído
+257,2025-09-14,Caixa de Som,Eletrônicos,1,122.62,0.053,116.12,70.11,46.01,Centro-Oeste,App,Pix,Concluído
+258,2025-09-15,Garrafa,Esportes,2,203.21,0.044,388.54,209.05,179.49,Centro-Oeste,Site,Boleto,Concluído
+259,2025-09-16,Cafeteira,Casa,3,516.71,0.052,1469.52,1072.05,397.47,Norte,App,Cartão,Concluído
+260,2025-09-17,Liquidificador,Casa,1,618.71,0.116,546.94,311.27,235.67,Norte,App,Cartão,Concluído
+261,2025-09-18,Jogo de Panelas,Casa,2,519.87,0.099,936.81,446.04,490.77,Nordeste,Site,Cartão,Concluído
+262,2025-09-19,Calça Jeans,Moda,1,410.78,0.028,399.28,253.59,145.69,Nordeste,App,Boleto,Concluído
+263,2025-09-20,Bola,Esportes,4,138.62,0.026,540.06,261.47,278.59,Centro-Oeste,Site,Boleto,Concluído
+264,2025-09-21,Caixa de Som,Eletrônicos,2,748.16,0.015,1473.88,815.89,657.99,Centro-Oeste,App,Boleto,Concluído
+265,2025-09-22,Kit Skincare,Beleza,1,72.85,0.099,65.64,39.53,26.11,Sudeste,Marketplace,Pix,Concluído
+266,2025-09-23,Mouse,Eletrônicos,1,813.75,0.115,720.17,512.95,207.22,Sudeste,App,Pix,Concluído
+267,2025-09-24,Kit Skincare,Beleza,3,264.51,0.04,761.79,455.6,306.19,Nordeste,Site,Cartão,Concluído
+268,2025-09-25,Caixa de Som,Eletrônicos,1,750.18,0.003,747.93,494.14,253.79,Nordeste,App,Boleto,Concluído
+269,2025-09-26,Bola,Esportes,2,174.74,0.012,345.29,258.22,87.07,Sudeste,Site,Cartão,Concluído
+270,2025-09-27,Perfume,Beleza,2,303.87,0.145,519.62,254.33,265.29,Sudeste,Site,Boleto,Concluído
+271,2025-09-28,Jaqueta,Moda,3,286.88,0.044,822.77,438.06,384.71,Sul,Marketplace,Boleto,Concluído
+272,2025-09-29,Fone Bluetooth,Eletrônicos,2,679.9,0.115,1203.42,683.99,519.43,Sul,Marketplace,Boleto,Concluído
+273,2025-09-30,Mouse,Eletrônicos,4,146.94,0.094,532.51,307.02,225.49,Sudeste,Site,Pix,Concluído
+274,2025-10-01,Kit Skincare,Beleza,2,64.74,0.057,122.1,70.0,52.1,Sul,App,Pix,Concluído
+275,2025-10-02,Camiseta,Moda,2,161.2,0.031,312.41,225.65,86.76,Norte,Site,Boleto,Concluído
+276,2025-10-03,Tênis,Moda,1,121.8,0.018,119.61,79.45,40.16,Nordeste,Site,Cartão,Concluído
+277,2025-10-04,Garrafa,Esportes,1,308.97,0.092,280.54,177.41,103.13,Nordeste,App,Boleto,Concluído
+278,2025-10-05,Jaqueta,Moda,2,148.65,0.116,262.81,142.66,120.15,Sudeste,App,Boleto,Concluído
+279,2025-10-06,Calça Jeans,Moda,3,489.14,0.097,1325.08,923.76,401.32,Centro-Oeste,App,Cartão,Concluído
+280,2025-10-07,Tênis,Moda,1,201.6,0.08,185.47,136.6,48.87,Sudeste,App,Boleto,Concluído
+281,2025-10-08,Liquidificador,Casa,3,184.73,0.006,550.86,383.6,167.26,Sul,Site,Cartão,Concluído
+282,2025-10-09,Mochila,Esportes,2,282.7,0.145,483.42,217.77,265.65,Centro-Oeste,Site,Pix,Concluído
+283,2025-10-10,Fone Bluetooth,Eletrônicos,2,620.14,0.12,1091.45,699.53,391.92,Sul,Marketplace,Pix,Cancelado
+284,2025-10-11,Secador,Beleza,4,244.26,0.044,934.05,434.65,499.4,Norte,Site,Cartão,Concluído
+285,2025-10-12,Caixa de Som,Eletrônicos,1,535.4,0.147,456.7,240.81,215.89,Sul,App,Pix,Concluído
+286,2025-10-13,Mochila,Esportes,2,260.14,0.09,473.45,221.51,251.94,Norte,Marketplace,Pix,Cancelado
+287,2025-10-14,Kit Skincare,Beleza,4,133.67,0.087,488.16,308.1,180.06,Norte,App,Cartão,Concluído
+288,2025-10-15,Corda,Esportes,1,348.83,0.112,309.76,203.2,106.56,Sul,Site,Pix,Concluído
+289,2025-10-16,Tênis,Moda,2,488.66,0.122,858.09,415.61,442.48,Sul,Marketplace,Boleto,Concluído
+290,2025-10-17,Perfume,Beleza,2,306.63,0.098,553.16,312.62,240.54,Norte,App,Boleto,Concluído
+291,2025-10-18,Calça Jeans,Moda,1,139.79,0.019,137.13,80.48,56.65,Centro-Oeste,Marketplace,Cartão,Concluído
+292,2025-10-19,Caixa de Som,Eletrônicos,1,637.79,0.051,605.26,339.38,265.88,Norte,Marketplace,Pix,Concluído
+293,2025-10-20,Mouse,Eletrônicos,1,139.2,0.139,119.85,58.28,61.57,Nordeste,Site,Boleto,Concluído
+294,2025-10-21,Kit Skincare,Beleza,2,52.57,0.034,101.57,58.47,43.1,Norte,App,Boleto,Concluído
+295,2025-10-22,Chapinha,Beleza,2,145.65,0.056,274.99,185.72,89.27,Centro-Oeste,Marketplace,Pix,Concluído
+296,2025-10-23,Garrafa,Esportes,4,178.04,0.065,665.87,313.83,352.04,Nordeste,Marketplace,Pix,Concluído
+297,2025-10-24,Bola,Esportes,3,307.85,0.066,862.6,408.92,453.68,Sudeste,App,Boleto,Concluído
+298,2025-10-25,Camiseta,Moda,1,377.23,0.092,342.52,190.59,151.93,Sudeste,Marketplace,Boleto,Concluído
+299,2025-10-26,Secador,Beleza,2,344.51,0.141,591.87,433.56,158.31,Centro-Oeste,Marketplace,Cartão,Concluído
+300,2025-10-27,Teclado,Eletrônicos,2,428.9,0.036,826.92,537.97,288.95,Norte,Marketplace,Cartão,Concluído
+301,2025-10-28,Tapete de Yoga,Esportes,1,140.7,0.018,138.17,90.31,47.86,Sul,App,Boleto,Concluído
+302,2025-10-29,Tapete de Yoga,Esportes,3,148.73,0.03,432.8,241.75,191.05,Centro-Oeste,App,Cartão,Concluído
+303,2025-10-30,Mouse,Eletrônicos,1,889.87,0.133,771.52,484.59,286.93,Nordeste,App,Boleto,Concluído
+304,2025-10-31,Bola,Esportes,3,42.83,0.097,116.03,52.57,63.46,Nordeste,App,Boleto,Concluído
+305,2025-11-01,Camiseta,Moda,2,440.16,0.043,842.47,539.88,302.59,Sudeste,Site,Cartão,Concluído
+306,2025-11-02,Kit Skincare,Beleza,3,277.26,0.122,730.3,528.73,201.57,Nordeste,Marketplace,Cartão,Concluído
+307,2025-11-03,Teclado,Eletrônicos,4,439.66,0.129,1531.78,970.8,560.98,Centro-Oeste,App,Pix,Concluído
+308,2025-11-04,Secador,Beleza,2,337.36,0.127,589.03,419.45,169.58,Nordeste,Marketplace,Pix,Concluído
+309,2025-11-05,Mochila,Esportes,4,185.73,0.138,640.4,427.27,213.13,Centro-Oeste,Marketplace,Pix,Concluído
+310,2025-11-06,Bola,Esportes,1,309.5,0.038,297.74,144.75,152.99,Sul,Site,Boleto,Concluído
+311,2025-11-07,Mouse,Eletrônicos,1,818.58,0.113,726.08,523.31,202.77,Sudeste,App,Cartão,Concluído
+312,2025-11-08,Camiseta,Moda,1,239.77,0.069,223.23,104.9,118.33,Nordeste,App,Boleto,Concluído
+313,2025-11-09,Air Fryer,Casa,3,244.4,0.126,640.82,391.02,249.8,Centro-Oeste,Marketplace,Cartão,Concluído
+314,2025-11-10,Fone Bluetooth,Eletrônicos,2,565.73,0.109,1008.13,496.65,511.48,Norte,App,Boleto,Cancelado
+315,2025-11-11,Liquidificador,Casa,1,644.79,0.116,569.99,258.5,311.49,Sudeste,Marketplace,Pix,Cancelado
+316,2025-11-12,Aspirador,Casa,1,202.72,0.098,182.85,105.43,77.42,Sul,Marketplace,Pix,Concluído
+317,2025-11-13,Tênis,Moda,2,330.33,0.027,642.82,346.17,296.65,Centro-Oeste,Site,Pix,Concluído
+318,2025-11-14,Air Fryer,Casa,1,467.88,0.082,429.51,255.9,173.61,Sul,Site,Boleto,Concluído
+319,2025-11-15,Cafeteira,Casa,4,531.86,0.148,1812.58,1129.53,683.05,Sul,Site,Cartão,Concluído
+320,2025-11-16,Bolsa,Moda,2,109.21,0.141,187.62,86.89,100.73,Nordeste,Marketplace,Cartão,Concluído
+321,2025-11-17,Air Fryer,Casa,2,520.97,0.006,1035.69,504.28,531.41,Nordeste,App,Pix,Cancelado
+322,2025-11-18,Aspirador,Casa,2,642.69,0.025,1253.25,774.0,479.25,Centro-Oeste,Site,Pix,Concluído
+323,2025-11-19,Liquidificador,Casa,4,183.2,0.02,718.14,397.1,321.04,Norte,App,Pix,Concluído
+324,2025-11-20,Teclado,Eletrônicos,2,274.79,0.109,489.68,327.47,162.21,Centro-Oeste,Site,Pix,Concluído
+325,2025-11-21,Fone Bluetooth,Eletrônicos,4,876.54,0.123,3074.9,1985.42,1089.48,Norte,Site,Cartão,Cancelado
+326,2025-11-22,Caixa de Som,Eletrônicos,2,228.4,0.032,442.18,311.15,131.03,Sul,Marketplace,Boleto,Concluído
+327,2025-11-23,Camiseta,Moda,3,434.47,0.076,1204.35,792.16,412.19,Sudeste,Site,Boleto,Concluído
+328,2025-11-24,Corda,Esportes,1,187.53,0.126,163.9,94.89,69.01,Centro-Oeste,Site,Boleto,Concluído
+329,2025-11-25,Liquidificador,Casa,3,225.76,0.11,602.78,392.95,209.83,Centro-Oeste,Marketplace,Boleto,Concluído
+330,2025-11-26,Air Fryer,Casa,1,618.57,0.081,568.47,302.78,265.69,Norte,App,Pix,Concluído
+331,2025-11-27,Bolsa,Moda,4,250.39,0.089,912.42,494.43,417.99,Sul,Site,Pix,Cancelado
+332,2025-11-28,Jogo de Panelas,Casa,3,394.33,0.076,1093.08,750.61,342.47,Sul,Marketplace,Pix,Concluído
+333,2025-11-29,Smartwatch,Eletrônicos,2,374.57,0.045,715.43,417.76,297.67,Norte,Site,Boleto,Concluído
+334,2025-11-30,Mochila,Esportes,1,219.74,0.085,201.06,138.63,62.43,Sul,Marketplace,Pix,Concluído
+335,2025-12-01,Hidratante,Beleza,1,107.04,0.103,96.01,66.89,29.12,Nordeste,App,Pix,Concluído
+336,2025-12-02,Aspirador,Casa,3,316.38,0.131,824.8,583.36,241.44,Sudeste,App,Cartão,Concluído
+337,2025-12-03,Smartwatch,Eletrônicos,4,874.92,0.095,3167.21,2296.2,871.01,Centro-Oeste,Marketplace,Cartão,Concluído
+338,2025-12-04,Kit Skincare,Beleza,3,145.83,0.114,387.62,224.55,163.07,Sudeste,Marketplace,Pix,Concluído
+339,2025-12-05,Tapete de Yoga,Esportes,4,240.16,0.024,937.58,511.6,425.98,Centro-Oeste,Marketplace,Cartão,Concluído
+340,2025-12-06,Secador,Beleza,4,173.33,0.069,645.48,403.21,242.27,Nordeste,App,Cartão,Concluído
+341,2025-12-07,Caixa de Som,Eletrônicos,1,714.25,0.001,713.54,400.55,312.99,Sul,Site,Pix,Concluído
+342,2025-12-08,Hidratante,Beleza,3,93.66,0.037,270.58,170.55,100.03,Norte,App,Pix,Concluído
+343,2025-12-09,Tênis,Moda,3,486.42,0.109,1300.2,860.31,439.89,Nordeste,Marketplace,Pix,Concluído
+344,2025-12-10,Perfume,Beleza,4,226.05,0.149,769.47,505.17,264.3,Sudeste,Marketplace,Pix,Concluído
+345,2025-12-11,Cafeteira,Casa,3,218.71,0.015,646.29,363.45,282.84,Norte,App,Boleto,Concluído
+346,2025-12-12,Cafeteira,Casa,2,116.3,0.06,218.64,109.33,109.31,Sul,Marketplace,Boleto,Concluído
+347,2025-12-13,Bolsa,Moda,2,126.39,0.12,222.45,128.83,93.62,Nordeste,App,Pix,Concluído
+348,2025-12-14,Teclado,Eletrônicos,3,506.21,0.031,1471.55,725.15,746.4,Norte,Marketplace,Cartão,Concluído
+349,2025-12-15,Air Fryer,Casa,3,282.31,0.083,776.63,556.87,219.76,Nordeste,Site,Pix,Concluído
+350,2025-12-16,Tapete de Yoga,Esportes,4,295.24,0.11,1051.05,582.03,469.02,Nordeste,Site,Pix,Concluído
+351,2025-12-17,Jogo de Panelas,Casa,2,341.46,0.092,620.09,307.77,312.32,Sul,Marketplace,Cartão,Concluído
+352,2025-12-18,Cafeteira,Casa,2,226.69,0.028,440.69,201.67,239.02,Centro-Oeste,App,Boleto,Concluído
+353,2025-12-19,Mouse,Eletrônicos,1,586.06,0.053,555.0,357.28,197.72,Norte,Site,Pix,Cancelado
+354,2025-12-20,Kit Skincare,Beleza,4,329.78,0.118,1163.46,745.86,417.6,Sul,App,Pix,Concluído
+355,2025-12-21,Aspirador,Casa,1,175.24,0.083,160.7,88.74,71.96,Nordeste,Marketplace,Boleto,Concluído
+356,2025-12-22,Bolsa,Moda,2,125.43,0.001,250.61,118.17,132.44,Sul,App,Boleto,Concluído
+357,2025-12-23,Secador,Beleza,4,55.04,0.114,195.06,111.75,83.31,Centro-Oeste,Site,Cartão,Cancelado
+358,2025-12-24,Corda,Esportes,3,265.65,0.005,792.97,430.87,362.1,Norte,App,Boleto,Concluído
+359,2025-12-25,Fone Bluetooth,Eletrônicos,4,624.32,0.112,2217.58,1448.38,769.2,Centro-Oeste,App,Boleto,Concluído
+360,2025-12-26,Tapete de Yoga,Esportes,3,181.88,0.03,529.27,334.36,194.91,Sudeste,Marketplace,Boleto,Concluído
+361,2025-12-27,Perfume,Beleza,3,386.11,0.144,991.53,554.64,436.89,Norte,Marketplace,Cartão,Concluído
+362,2025-12-28,Kit Skincare,Beleza,4,370.32,0.055,1399.81,721.42,678.39,Centro-Oeste,Marketplace,Boleto,Concluído
+363,2025-12-29,Secador,Beleza,3,280.0,0.049,798.84,596.26,202.58,Nordeste,Site,Boleto,Concluído
+364,2025-12-30,Garrafa,Esportes,1,307.85,0.022,301.08,176.49,124.59,Norte,Site,Cartão,Concluído
+365,2025-12-31,Secador,Beleza,2,124.39,0.046,237.34,155.81,81.53,Norte,Marketplace,Boleto,Concluído
+366,2026-01-01,Bola,Esportes,3,65.81,0.131,171.57,84.44,87.13,Sul,Marketplace,Boleto,Concluído
+367,2026-01-02,Chapinha,Beleza,1,150.6,0.149,128.16,76.34,51.82,Nordeste,Site,Cartão,Concluído
+368,2026-01-03,Jaqueta,Moda,3,75.69,0.055,214.58,98.33,116.25,Sudeste,Site,Pix,Concluído
+369,2026-01-04,Kit Skincare,Beleza,2,257.78,0.067,481.02,289.4,191.62,Centro-Oeste,Site,Cartão,Concluído
+370,2026-01-05,Corda,Esportes,1,329.71,0.108,294.1,217.4,76.7,Sul,Site,Boleto,Concluído
+371,2026-01-06,Jogo de Panelas,Casa,2,94.79,0.133,164.37,92.91,71.46,Centro-Oeste,Marketplace,Boleto,Cancelado
+372,2026-01-07,Chapinha,Beleza,2,90.07,0.089,164.11,75.77,88.34,Sudeste,Site,Boleto,Concluído
+373,2026-01-08,Air Fryer,Casa,1,354.89,0.059,333.95,153.38,180.57,Sudeste,Marketplace,Cartão,Concluído
+374,2026-01-09,Bolsa,Moda,1,470.24,0.062,441.09,249.83,191.26,Norte,App,Boleto,Concluído
+375,2026-01-10,Fone Bluetooth,Eletrônicos,1,339.25,0.104,303.97,151.38,152.59,Sudeste,App,Boleto,Concluído
+376,2026-01-11,Bolsa,Moda,4,278.26,0.0,1113.04,508.67,604.37,Centro-Oeste,Site,Cartão,Concluído
+377,2026-01-12,Perfume,Beleza,1,57.04,0.093,51.74,35.02,16.72,Nordeste,App,Pix,Concluído
+378,2026-01-13,Liquidificador,Casa,1,163.46,0.053,154.8,90.95,63.85,Nordeste,App,Pix,Concluído
+379,2026-01-14,Cafeteira,Casa,1,691.58,0.119,609.28,327.05,282.23,Norte,App,Boleto,Concluído
+380,2026-01-15,Tapete de Yoga,Esportes,1,338.84,0.014,334.1,240.56,93.54,Centro-Oeste,Site,Cartão,Concluído
+381,2026-01-16,Aspirador,Casa,3,73.11,0.088,200.03,96.98,103.05,Centro-Oeste,Site,Boleto,Concluído
+382,2026-01-17,Bola,Esportes,4,334.58,0.072,1241.96,915.05,326.91,Sudeste,App,Cartão,Concluído
+383,2026-01-18,Teclado,Eletrônicos,2,604.08,0.096,1092.18,594.35,497.83,Centro-Oeste,Marketplace,Cartão,Concluído
+384,2026-01-19,Secador,Beleza,1,395.85,0.01,391.89,280.8,111.09,Sul,App,Pix,Concluído
+385,2026-01-20,Mochila,Esportes,3,175.52,0.087,480.75,303.3,177.45,Sudeste,Site,Pix,Concluído
+386,2026-01-21,Smartwatch,Eletrônicos,3,502.79,0.084,1381.67,964.42,417.25,Sul,Site,Cartão,Cancelado
+387,2026-01-22,Liquidificador,Casa,3,377.97,0.084,1038.66,774.01,264.65,Norte,Site,Boleto,Concluído
+388,2026-01-23,Cafeteira,Casa,2,490.12,0.091,891.04,478.06,412.98,Nordeste,App,Pix,Concluído
+389,2026-01-24,Smartwatch,Eletrônicos,1,194.51,0.101,174.86,129.11,45.75,Norte,Marketplace,Boleto,Concluído
+390,2026-01-25,Aspirador,Casa,4,88.88,0.121,312.5,177.14,135.36,Nordeste,Site,Pix,Concluído
+391,2026-01-26,Smartwatch,Eletrônicos,4,332.5,0.04,1276.8,722.23,554.57,Norte,Site,Pix,Concluído
+392,2026-01-27,Bola,Esportes,3,255.5,0.124,671.45,370.72,300.73,Centro-Oeste,App,Boleto,Concluído
+393,2026-01-28,Garrafa,Esportes,2,94.59,0.075,174.99,107.17,67.82,Sul,Marketplace,Pix,Concluído
+394,2026-01-29,Mouse,Eletrônicos,2,632.21,0.012,1249.25,619.93,629.32,Nordeste,App,Pix,Concluído
+395,2026-01-30,Mochila,Esportes,2,340.37,0.009,674.61,415.64,258.97,Sudeste,Site,Boleto,Concluído
+396,2026-01-31,Bola,Esportes,4,60.05,0.05,228.19,139.77,88.42,Sul,Marketplace,Pix,Concluído
+397,2026-02-01,Mochila,Esportes,3,245.23,0.118,648.88,440.31,208.57,Sudeste,Marketplace,Pix,Concluído
+398,2026-02-02,Tênis,Moda,1,249.69,0.106,223.22,156.28,66.94,Sul,Site,Pix,Concluído
+399,2026-02-03,Perfume,Beleza,4,395.94,0.118,1396.88,813.17,583.71,Sul,Marketplace,Boleto,Concluído
+400,2026-02-04,Jogo de Panelas,Casa,3,181.6,0.078,502.31,271.6,230.71,Norte,Marketplace,Cartão,Concluído
+401,2026-02-05,Calça Jeans,Moda,3,361.68,0.066,1013.43,534.89,478.54,Nordeste,App,Boleto,Concluído
+402,2026-02-06,Mochila,Esportes,1,298.2,0.022,291.64,148.27,143.37,Nordeste,Site,Cartão,Concluído
+403,2026-02-07,Caixa de Som,Eletrônicos,1,854.58,0.049,812.71,379.77,432.94,Sul,Site,Pix,Concluído
+404,2026-02-08,Corda,Esportes,1,248.64,0.065,232.48,128.5,103.98,Centro-Oeste,Site,Cartão,Concluído
+405,2026-02-09,Chapinha,Beleza,2,243.84,0.013,481.34,255.63,225.71,Centro-Oeste,Site,Boleto,Concluído
+406,2026-02-10,Garrafa,Esportes,1,227.71,0.033,220.2,162.93,57.27,Sudeste,Site,Boleto,Concluído
+407,2026-02-11,Caixa de Som,Eletrônicos,3,792.5,0.09,2163.52,1335.57,827.95,Sudeste,Marketplace,Pix,Concluído
+408,2026-02-12,Secador,Beleza,1,273.95,0.11,243.82,135.12,108.7,Norte,App,Cartão,Concluído
+409,2026-02-13,Mochila,Esportes,3,39.72,0.15,101.29,63.22,38.07,Sul,Site,Pix,Concluído
+410,2026-02-14,Kit Skincare,Beleza,4,421.69,0.14,1450.61,713.35,737.26,Sudeste,App,Pix,Concluído
+411,2026-02-15,Aspirador,Casa,2,504.4,0.096,911.96,531.87,380.09,Sudeste,App,Boleto,Concluído
+412,2026-02-16,Jogo de Panelas,Casa,4,496.2,0.063,1859.76,1186.29,673.47,Sul,Marketplace,Cartão,Concluído
+413,2026-02-17,Tapete de Yoga,Esportes,4,99.02,0.095,358.45,213.88,144.57,Norte,Site,Cartão,Concluído
+414,2026-02-18,Perfume,Beleza,3,310.14,0.118,820.63,468.2,352.43,Sudeste,Marketplace,Cartão,Concluído
+415,2026-02-19,Mouse,Eletrônicos,4,402.97,0.018,1582.87,1184.23,398.64,Norte,Site,Cartão,Concluído
+416,2026-02-20,Bola,Esportes,3,238.39,0.061,671.54,479.54,192.0,Nordeste,Marketplace,Pix,Concluído
+417,2026-02-21,Jogo de Panelas,Casa,1,137.15,0.126,119.87,76.36,43.51,Norte,App,Pix,Concluído
+418,2026-02-22,Air Fryer,Casa,1,484.44,0.058,456.34,283.3,173.04,Centro-Oeste,Site,Boleto,Concluído
+419,2026-02-23,Bola,Esportes,3,349.81,0.086,959.18,610.23,348.95,Centro-Oeste,App,Pix,Concluído
+420,2026-02-24,Chapinha,Beleza,1,59.77,0.088,54.51,27.82,26.69,Norte,App,Pix,Concluído
+421,2026-02-25,Jogo de Panelas,Casa,2,685.62,0.028,1332.85,757.78,575.07,Centro-Oeste,Marketplace,Boleto,Concluído
+422,2026-02-26,Hidratante,Beleza,4,206.83,0.054,782.64,361.45,421.19,Nordeste,Site,Boleto,Concluído
+423,2026-02-27,Cafeteira,Casa,2,618.57,0.05,1175.28,696.55,478.73,Sul,App,Boleto,Concluído
+424,2026-02-28,Cafeteira,Casa,4,562.9,0.004,2242.59,1374.5,868.09,Centro-Oeste,Marketplace,Pix,Concluído
+425,2026-03-01,Calça Jeans,Moda,1,305.16,0.004,303.94,157.54,146.4,Centro-Oeste,Site,Pix,Concluído
+426,2026-03-02,Jogo de Panelas,Casa,2,535.22,0.125,936.64,692.37,244.27,Norte,Site,Boleto,Concluído
+427,2026-03-03,Smartwatch,Eletrônicos,1,800.38,0.041,767.56,554.82,212.74,Nordeste,App,Boleto,Concluído
+428,2026-03-04,Corda,Esportes,4,159.32,0.078,587.57,391.7,195.87,Sul,Site,Boleto,Concluído
+429,2026-03-05,Mochila,Esportes,3,134.65,0.045,385.77,235.33,150.44,Norte,App,Pix,Concluído
+430,2026-03-06,Hidratante,Beleza,3,313.71,0.141,808.43,574.79,233.64,Norte,Site,Pix,Concluído
+431,2026-03-07,Liquidificador,Casa,2,578.94,0.039,1112.72,544.34,568.38,Nordeste,Marketplace,Cartão,Concluído
+432,2026-03-08,Fone Bluetooth,Eletrônicos,1,705.07,0.064,659.95,453.49,206.46,Sul,App,Pix,Concluído
+433,2026-03-09,Kit Skincare,Beleza,1,367.1,0.131,319.01,155.5,163.51,Nordeste,App,Pix,Concluído
+434,2026-03-10,Calça Jeans,Moda,2,246.01,0.126,430.03,295.97,134.06,Sul,Site,Pix,Cancelado
+435,2026-03-11,Hidratante,Beleza,3,375.31,0.028,1094.4,583.02,511.38,Nordeste,Site,Boleto,Concluído
+436,2026-03-12,Perfume,Beleza,4,89.29,0.12,314.3,224.14,90.16,Norte,App,Pix,Cancelado
+437,2026-03-13,Air Fryer,Casa,2,413.03,0.069,769.06,563.88,205.18,Norte,Site,Boleto,Cancelado
+438,2026-03-14,Tênis,Moda,4,52.59,0.072,195.21,96.56,98.65,Sudeste,Marketplace,Cartão,Concluído
+439,2026-03-15,Perfume,Beleza,3,173.08,0.02,508.86,299.62,209.24,Centro-Oeste,Site,Cartão,Concluído
+440,2026-03-16,Fone Bluetooth,Eletrônicos,1,380.5,0.012,375.93,279.8,96.13,Nordeste,Marketplace,Boleto,Concluído
+441,2026-03-17,Smartwatch,Eletrônicos,3,404.86,0.109,1082.19,643.93,438.26,Sudeste,Marketplace,Boleto,Concluído
+442,2026-03-18,Bola,Esportes,2,252.55,0.074,467.72,331.64,136.08,Centro-Oeste,Marketplace,Boleto,Concluído
+443,2026-03-19,Calça Jeans,Moda,1,224.85,0.066,210.01,131.6,78.41,Nordeste,Marketplace,Pix,Concluído
+444,2026-03-20,Calça Jeans,Moda,2,251.91,0.109,448.9,252.55,196.35,Sul,Marketplace,Cartão,Concluído
+445,2026-03-21,Tapete de Yoga,Esportes,2,106.01,0.115,187.64,100.53,87.11,Centro-Oeste,Site,Boleto,Concluído
+446,2026-03-22,Secador,Beleza,3,193.03,0.024,565.19,288.79,276.4,Norte,Marketplace,Pix,Concluído
+447,2026-03-23,Camiseta,Moda,2,152.27,0.092,276.52,187.63,88.89,Sudeste,Site,Cartão,Concluído
+448,2026-03-24,Mouse,Eletrônicos,3,140.02,0.02,411.66,232.98,178.68,Centro-Oeste,Marketplace,Pix,Concluído
+449,2026-03-25,Caixa de Som,Eletrônicos,1,574.83,0.113,509.87,307.65,202.22,Centro-Oeste,App,Cartão,Concluído
+450,2026-03-26,Air Fryer,Casa,3,490.97,0.099,1327.09,793.2,533.89,Norte,Marketplace,Pix,Concluído
+451,2026-03-27,Bolsa,Moda,1,328.77,0.143,281.76,175.59,106.17,Nordeste,App,Cartão,Cancelado
+452,2026-03-28,Secador,Beleza,3,230.03,0.01,683.19,484.84,198.35,Sul,Marketplace,Cartão,Concluído
+453,2026-03-29,Corda,Esportes,4,151.53,0.009,600.66,447.02,153.64,Norte,Marketplace,Pix,Concluído
+454,2026-03-30,Bola,Esportes,4,306.27,0.042,1173.63,671.64,501.99,Sul,Marketplace,Boleto,Concluído
+455,2026-03-31,Perfume,Beleza,2,252.82,0.039,485.92,339.3,146.62,Nordeste,App,Cartão,Concluído
+456,2026-04-01,Air Fryer,Casa,3,371.88,0.037,1074.36,729.88,344.48,Centro-Oeste,App,Boleto,Concluído
+457,2026-04-02,Bola,Esportes,3,38.21,0.136,99.04,61.61,37.43,Sul,Marketplace,Pix,Concluído
+458,2026-04-03,Jaqueta,Moda,1,203.56,0.037,196.03,144.44,51.59,Sudeste,Site,Boleto,Concluído
+459,2026-04-04,Jogo de Panelas,Casa,2,309.52,0.041,593.66,302.85,290.81,Sudeste,Marketplace,Boleto,Concluído
+460,2026-04-05,Tênis,Moda,3,229.47,0.114,609.93,294.46,315.47,Norte,App,Boleto,Cancelado
+461,2026-04-06,Mouse,Eletrônicos,2,555.74,0.067,1037.01,732.32,304.69,Nordeste,Marketplace,Boleto,Concluído
+462,2026-04-07,Liquidificador,Casa,4,406.17,0.117,1434.59,834.57,600.02,Norte,App,Boleto,Concluído
+463,2026-04-08,Garrafa,Esportes,3,224.53,0.01,666.85,469.52,197.33,Norte,App,Cartão,Concluído
+464,2026-04-09,Cafeteira,Casa,3,551.88,0.073,1534.78,1101.86,432.92,Norte,App,Cartão,Concluído
+465,2026-04-10,Jogo de Panelas,Casa,2,582.18,0.005,1158.54,543.05,615.49,Sudeste,Marketplace,Cartão,Concluído
+466,2026-04-11,Liquidificador,Casa,3,522.42,0.009,1553.15,1110.56,442.59,Sudeste,App,Pix,Concluído
+467,2026-04-12,Air Fryer,Casa,2,671.98,0.136,1161.18,678.7,482.48,Norte,App,Boleto,Concluído
+468,2026-04-13,Jaqueta,Moda,3,58.2,0.021,170.93,103.09,67.84,Sudeste,Marketplace,Cartão,Cancelado
+469,2026-04-14,Mouse,Eletrônicos,1,240.54,0.08,221.3,141.18,80.12,Nordeste,App,Pix,Concluído
+470,2026-04-15,Hidratante,Beleza,2,43.1,0.062,80.86,58.86,22.0,Norte,Marketplace,Cartão,Concluído
+471,2026-04-16,Aspirador,Casa,3,477.91,0.052,1359.18,619.43,739.75,Sudeste,App,Cartão,Concluído
+472,2026-04-17,Bola,Esportes,4,317.37,0.135,1098.1,651.23,446.87,Sul,Site,Boleto,Concluído
+473,2026-04-18,Cafeteira,Casa,3,223.39,0.003,668.16,438.52,229.64,Norte,Site,Pix,Concluído
+474,2026-04-19,Bola,Esportes,4,326.65,0.1,1175.94,784.13,391.81,Norte,App,Boleto,Concluído
+475,2026-04-20,Bolsa,Moda,4,77.12,0.145,263.75,173.48,90.27,Nordeste,Site,Boleto,Concluído
+476,2026-04-21,Corda,Esportes,1,329.02,0.084,301.38,147.78,153.6,Centro-Oeste,Marketplace,Cartão,Concluído
+477,2026-04-22,Hidratante,Beleza,2,184.17,0.141,316.4,170.8,145.6,Centro-Oeste,Site,Boleto,Concluído
+478,2026-04-23,Smartwatch,Eletrônicos,3,163.17,0.008,485.59,270.77,214.82,Nordeste,App,Pix,Concluído
+479,2026-04-24,Tapete de Yoga,Esportes,1,185.48,0.063,173.79,120.15,53.64,Nordeste,App,Boleto,Concluído
+480,2026-04-25,Tapete de Yoga,Esportes,3,112.17,0.039,323.39,172.57,150.82,Nordeste,Marketplace,Boleto,Concluído
+481,2026-04-26,Teclado,Eletrônicos,4,313.6,0.11,1116.42,572.96,543.46,Centro-Oeste,App,Boleto,Concluído
+482,2026-04-27,Chapinha,Beleza,2,165.99,0.147,283.18,208.77,74.41,Nordeste,Marketplace,Cartão,Concluído
+483,2026-04-28,Aspirador,Casa,3,575.91,0.038,1662.08,752.36,909.72,Sudeste,Site,Pix,Concluído
+484,2026-04-29,Garrafa,Esportes,3,202.53,0.098,548.05,410.68,137.37,Norte,Site,Cartão,Concluído
+485,2026-04-30,Teclado,Eletrônicos,4,335.27,0.03,1300.85,849.52,451.33,Norte,Marketplace,Cartão,Concluído
+486,2026-05-01,Calça Jeans,Moda,3,324.65,0.085,891.16,622.51,268.65,Sul,Marketplace,Cartão,Concluído
+487,2026-05-02,Caixa de Som,Eletrônicos,3,667.24,0.07,1861.6,1002.26,859.34,Sul,App,Cartão,Concluído
+488,2026-05-03,Bolsa,Moda,4,172.68,0.146,589.87,267.97,321.9,Norte,Site,Cartão,Concluído
+489,2026-05-04,Secador,Beleza,1,209.56,0.091,190.49,127.89,62.6,Sudeste,Marketplace,Pix,Concluído
+490,2026-05-05,Liquidificador,Casa,4,146.79,0.052,556.63,389.78,166.85,Centro-Oeste,Site,Boleto,Concluído
+491,2026-05-06,Smartwatch,Eletrônicos,1,228.54,0.017,224.65,151.0,73.65,Centro-Oeste,Marketplace,Cartão,Concluído
+492,2026-05-07,Tapete de Yoga,Esportes,2,247.96,0.023,484.51,238.79,245.72,Sudeste,Site,Cartão,Concluído
+493,2026-05-08,Chapinha,Beleza,1,114.39,0.034,110.5,74.7,35.8,Centro-Oeste,App,Pix,Concluído
+494,2026-05-09,Smartwatch,Eletrônicos,1,510.63,0.038,491.23,334.37,156.86,Nordeste,Site,Pix,Cancelado
+495,2026-05-10,Bola,Esportes,2,256.89,0.128,448.02,290.12,157.9,Norte,Site,Boleto,Concluído
+496,2026-05-11,Smartwatch,Eletrônicos,1,167.64,0.084,153.56,104.4,49.16,Norte,Site,Pix,Concluído
+497,2026-05-12,Tênis,Moda,4,305.29,0.079,1124.69,791.53,333.16,Sudeste,Site,Boleto,Concluído
+498,2026-05-13,Fone Bluetooth,Eletrônicos,1,290.38,0.017,285.44,180.99,104.45,Centro-Oeste,Site,Cartão,Concluído
+499,2026-05-14,Mouse,Eletrônicos,2,869.6,0.129,1514.84,721.94,792.9,Sul,App,Cartão,Concluído
+500,2026-05-15,Teclado,Eletrônicos,4,476.51,0.108,1700.19,1013.8,686.39,Sul,Marketplace,Boleto,Concluído
