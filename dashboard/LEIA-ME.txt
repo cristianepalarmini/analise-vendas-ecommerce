@@ -1,0 +1,28 @@
+DASHBOARD DE VENDAS E E-COMMERCE
+
+Ferramenta:
+Power BI
+
+Objetivo:
+Apresentar os principais indicadores de desempenho comercial de um e-commerce.
+
+Indicadores:
+- Total de pedidos
+- Faturamento total
+- Lucro total
+- Ticket médio
+- Pedidos concluídos
+
+Análises:
+- Faturamento por categoria
+- Faturamento por canal
+- Faturamento por região
+- Evolução do faturamento ao longo do tempo
+- Lucro por categoria
+
+Filtros:
+- Categoria
+- Região
+
+Observação:
+Os dados utilizados neste projeto são fictícios e foram criados exclusivamente para fins educacionais e de demonstração de competências em análise de dados.
