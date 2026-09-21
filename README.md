@@ -23,7 +23,7 @@ O projeto simula um cenário empresarial e utiliza dados fictícios para demonst
 
 ## 📊 Dashboard
 
-![Dashboard de Vendas e E-commerce](dashboard/Dashboard%20Vendas.jpg)
+![Dashboard de Vendas e E-commerce](dashboard/Dashboard%20de%20Vendas.jpg)
 
 O dashboard foi desenvolvido no **Power BI** para facilitar a visualização dos principais indicadores e permitir uma análise interativa dos dados.
 
